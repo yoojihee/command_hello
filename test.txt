@@ -1,1 +1,1 @@
-Homi
+print("hello world");
